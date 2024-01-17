@@ -6,9 +6,6 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+2022年9月一个下午，深圳超级文和友的二楼，三个许久未见的朋友聚在一起，边逛圈边分享着各自职场八卦和心得感慨。
+就像当时湿热的空气，现实的草莽和职场众生相给三个人以一种压抑和黏腻感，觉得应该去做些改变。于是，在一个杨枝甘露摊子前，我们决定建立自己的公司......
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
